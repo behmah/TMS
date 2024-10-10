@@ -1,0 +1,57 @@
+\babel@toc {english}{}\relax 
+\contentsline {chapter}{\numberline {1}authenticate package}{3}{chapter.1}%
+\contentsline {section}{\numberline {1.1}Subpackages}{3}{section.1.1}%
+\contentsline {subsection}{\numberline {1.1.1}authenticate.migrations package}{3}{subsection.1.1.1}%
+\contentsline {subsubsection}{Module contents}{3}{subsubsection*.3}%
+\contentsline {section}{\numberline {1.2}Submodules}{3}{section.1.2}%
+\contentsline {section}{\numberline {1.3}authenticate.admin module}{3}{section.1.3}%
+\contentsline {section}{\numberline {1.4}authenticate.apps module}{3}{section.1.4}%
+\contentsline {section}{\numberline {1.5}authenticate.models module}{4}{section.1.5}%
+\contentsline {section}{\numberline {1.6}authenticate.urls module}{4}{section.1.6}%
+\contentsline {section}{\numberline {1.7}authenticate.views module}{4}{section.1.7}%
+\contentsline {section}{\numberline {1.8}Module contents}{5}{section.1.8}%
+\contentsline {chapter}{\numberline {2}task\_management package}{7}{chapter.2}%
+\contentsline {section}{\numberline {2.1}Submodules}{7}{section.2.1}%
+\contentsline {section}{\numberline {2.2}task\_management.asgi module}{7}{section.2.2}%
+\contentsline {section}{\numberline {2.3}task\_management.consumers module}{7}{section.2.3}%
+\contentsline {section}{\numberline {2.4}task\_management.routing module}{8}{section.2.4}%
+\contentsline {section}{\numberline {2.5}task\_management.settings module}{8}{section.2.5}%
+\contentsline {section}{\numberline {2.6}task\_management.urls module}{8}{section.2.6}%
+\contentsline {section}{\numberline {2.7}task\_management.wsgi module}{9}{section.2.7}%
+\contentsline {section}{\numberline {2.8}Module contents}{9}{section.2.8}%
+\contentsline {chapter}{\numberline {3}open\_ai package}{11}{chapter.3}%
+\contentsline {section}{\numberline {3.1}Subpackages}{11}{section.3.1}%
+\contentsline {subsection}{\numberline {3.1.1}open\_ai.migrations package}{11}{subsection.3.1.1}%
+\contentsline {subsubsection}{Module contents}{11}{subsubsection*.41}%
+\contentsline {section}{\numberline {3.2}Submodules}{11}{section.3.2}%
+\contentsline {section}{\numberline {3.3}open\_ai.admin module}{11}{section.3.3}%
+\contentsline {section}{\numberline {3.4}open\_ai.apps module}{11}{section.3.4}%
+\contentsline {section}{\numberline {3.5}open\_ai.ollama\_phi module}{12}{section.3.5}%
+\contentsline {section}{\numberline {3.6}open\_ai.urls module}{12}{section.3.6}%
+\contentsline {section}{\numberline {3.7}open\_ai.views module}{13}{section.3.7}%
+\contentsline {section}{\numberline {3.8}Module contents}{13}{section.3.8}%
+\contentsline {chapter}{\numberline {4}tasks package}{15}{chapter.4}%
+\contentsline {section}{\numberline {4.1}Subpackages}{15}{section.4.1}%
+\contentsline {subsection}{\numberline {4.1.1}tasks.migrations package}{15}{subsection.4.1.1}%
+\contentsline {subsubsection}{Submodules}{15}{subsubsection*.64}%
+\contentsline {subsubsection}{tasks.migrations.0001\_initial module}{15}{subsubsection*.65}%
+\contentsline {subsubsection}{tasks.migrations.0002\_alter\_task\_due\_date module}{16}{subsubsection*.78}%
+\contentsline {subsubsection}{Module contents}{17}{subsubsection*.91}%
+\contentsline {section}{\numberline {4.2}Submodules}{17}{section.4.2}%
+\contentsline {section}{\numberline {4.3}tasks.admin module}{17}{section.4.3}%
+\contentsline {section}{\numberline {4.4}tasks.apps module}{17}{section.4.4}%
+\contentsline {section}{\numberline {4.5}tasks.models module}{18}{section.4.5}%
+\contentsline {section}{\numberline {4.6}tasks.serializers module}{22}{section.4.6}%
+\contentsline {section}{\numberline {4.7}tasks.urls module}{27}{section.4.7}%
+\contentsline {section}{\numberline {4.8}tasks.views module}{28}{section.4.8}%
+\contentsline {section}{\numberline {4.9}Module contents}{29}{section.4.9}%
+\contentsline {chapter}{\numberline {5}templates}{31}{chapter.5}%
+\contentsline {section}{\numberline {5.1}create.html}{31}{section.5.1}%
+\contentsline {section}{\numberline {5.2}update.html}{31}{section.5.2}%
+\contentsline {section}{\numberline {5.3}index.html}{31}{section.5.3}%
+\contentsline {section}{\numberline {5.4}login.html}{31}{section.5.4}%
+\contentsline {section}{\numberline {5.5}ollama\_phi.html}{31}{section.5.5}%
+\contentsline {chapter}{\numberline {6}Indices and tables}{33}{chapter.6}%
+\contentsline {chapter}{HTTP Routing Table}{35}{section*.259}%
+\contentsline {chapter}{Python Module Index}{37}{section*.260}%
+\contentsline {chapter}{Index}{39}{section*.261}%

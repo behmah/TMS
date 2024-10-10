@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Update Task</title>
+</head>
+<body>
+    <h1>Update Task</h1>
+
+    {% if errors %}
+        <ul>
+            {% for field, error_list in errors.items %}
+                <li>{{ field }}: {{ error_list|join:", " }}</li>
+            {% endfor %}
+        </ul>
+    {% endif %}
+
+    <form method="POST" action="{% url 'update_task' task.id %}">
+        {% csrf_token %}
+        
+        <label for="title">Title:</label>
+        <input type="text" id="title" name="title" value="{{ task.title }}" required><br>
+
+        <label for="description">Description:</label>
+        <textarea id="description" name="description">{{ task.description }}</textarea><br>
+
+        <label for="due_date">Due Date:</label>
+        <input type="date" id="due_date" name="due_date" value="{{ task.due_date|date:'Y-m-d' }}" required><br>
+
+        <label for="assigned_to">Assigned to:</label>
+        <select id="assigned_to" name="assigned_to">
+            {% for user in users %}
+                <option value="{{ user.id }}" {% if user == task.assigned_to %}selected{% endif %}>{{ user.username }}</option>
+            {% endfor %}
+        </select><br>
+
+        <label for="status">Status:</label>
+        <select id="status" name="status" required>
+            <option value="todo" {% if task.status == "todo" %}selected{% endif %}>Todo</option>
+            <option value="doing" {% if task.status == "doing" %}selected{% endif %}>Doing</option>
+            <option value="review" {% if task.status == "review" %}selected{% endif %}>Review</option>
+            <option value="done" {% if task.status == "done" %}selected{% endif %}>Done</option>
+        </select><br>
+
+        <button type="submit">Update Task</button>
+    </form>
+</body>
+</html>

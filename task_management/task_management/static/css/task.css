@@ -1,0 +1,40 @@
+/* Style for the task container */
+.task-item {
+    display: flex;
+    align-items: center;
+    justify-content: flex-start; /* Align items to the start */
+    margin-bottom: 10px;
+}
+
+/* Add some space between the task description and the delete button */
+.task-item p {
+    margin-right: 10px;
+}
+
+/* Add margin between the task list and the Create Task button */
+.create-task-btn {
+    margin-top: 20px;
+}
+/* Basic styles for the navigation menu */
+.nav {
+    margin-bottom: 20px;
+}
+
+.nav a {
+    margin-right: 15px;
+    text-decoration: none;
+    color: blue;
+}
+
+.nav a:hover {
+    text-decoration: underline;
+}
+
+/* Example CSS for notifications */
+.notification {
+    background-color: #4caf50;
+    color: white;
+    padding: 10px;
+    margin-bottom: 10px;
+    border-radius: 5px;
+}

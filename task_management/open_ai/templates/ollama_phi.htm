@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    {% load static %}
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ollama Phi3 Chat</title>
+    <link rel="stylesheet" href="{% static 'css/open_ai.css' %}">
+</head>
+<body>
+    <div class="chat-container">
+        <h1>Chat with Phi3 Model</h1>
+
+        <!-- Form for the user input -->
+        <form method="post">
+            {% csrf_token %}
+            <label for="user_input">Message ChatPhi:</label>
+            <textarea id="user_input" name="user_input" required></textarea>
+            <button type="submit">Send</button>
+        </form>
+
+        <!-- Display the user's input and the response from the model -->
+        <div class="response-container">
+            {% if user_input %}
+                <h3>Question:</h3>
+                <p class="user-input">{{ user_input }}</p>
+            {% endif %}
+
+            {% if response %}
+                <h3>Answer:</h3>
+                <p class="model-response">{{ response|safe }}</p>  <!-- Use safe filter for HTML rendering -->
+            {% endif %}
+        </div>
+    </div>
+</body>
+</html>

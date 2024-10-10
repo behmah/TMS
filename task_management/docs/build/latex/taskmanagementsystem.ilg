@@ -1,0 +1,7 @@
+This is makeindex, version 2.17 [TeX Live 2023] (kpathsea + Thai support).
+Scanning style file ./python.ist.......done (7 attributes redefined, 0 ignored).
+Scanning input file taskmanagementsystem.idx....done (290 entries accepted, 0 rejected).
+Sorting entries.....done (2596 comparisons).
+Generating output file taskmanagementsystem.ind....done (496 lines written, 0 warnings).
+Output written in taskmanagementsystem.ind.
+Transcript written in taskmanagementsystem.ilg.

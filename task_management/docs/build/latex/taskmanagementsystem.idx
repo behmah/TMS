@@ -1,0 +1,290 @@
+\indexentry{module@\spxentry{module}!authenticate.migrations@\spxentry{authenticate.migrations}|hyperpage}{3}
+\indexentry{authenticate.migrations@\spxentry{authenticate.migrations}!module@\spxentry{module}|hyperpage}{3}
+\indexentry{module@\spxentry{module}!authenticate.admin@\spxentry{authenticate.admin}|hyperpage}{3}
+\indexentry{authenticate.admin@\spxentry{authenticate.admin}!module@\spxentry{module}|hyperpage}{3}
+\indexentry{module@\spxentry{module}!authenticate.apps@\spxentry{authenticate.apps}|hyperpage}{3}
+\indexentry{authenticate.apps@\spxentry{authenticate.apps}!module@\spxentry{module}|hyperpage}{3}
+\indexentry{AuthenticateConfig (class in authenticate.apps)@\spxentry{AuthenticateConfig}\spxextra{class in authenticate.apps}|hyperpage}{3}
+\indexentry{\_\_init\_\_() (authenticate.apps.AuthenticateConfig method)@\spxentry{\_\_init\_\_()}\spxextra{authenticate.apps.AuthenticateConfig method}|hyperpage}{3}
+\indexentry{\_is\_default\_auto\_field\_overridden (authenticate.apps.AuthenticateConfig property)@\spxentry{\_is\_default\_auto\_field\_overridden}\spxextra{authenticate.apps.AuthenticateConfig property}|hyperpage}{3}
+\indexentry{\_path\_from\_module() (authenticate.apps.AuthenticateConfig method)@\spxentry{\_path\_from\_module()}\spxextra{authenticate.apps.AuthenticateConfig method}|hyperpage}{3}
+\indexentry{create() (authenticate.apps.AuthenticateConfig class method)@\spxentry{create()}\spxextra{authenticate.apps.AuthenticateConfig class method}|hyperpage}{3}
+\indexentry{default\_auto\_field (authenticate.apps.AuthenticateConfig attribute)@\spxentry{default\_auto\_field}\spxextra{authenticate.apps.AuthenticateConfig attribute}|hyperpage}{3}
+\indexentry{get\_model() (authenticate.apps.AuthenticateConfig method)@\spxentry{get\_model()}\spxextra{authenticate.apps.AuthenticateConfig method}|hyperpage}{3}
+\indexentry{get\_models() (authenticate.apps.AuthenticateConfig method)@\spxentry{get\_models()}\spxextra{authenticate.apps.AuthenticateConfig method}|hyperpage}{3}
+\indexentry{import\_models() (authenticate.apps.AuthenticateConfig method)@\spxentry{import\_models()}\spxextra{authenticate.apps.AuthenticateConfig method}|hyperpage}{4}
+\indexentry{name (authenticate.apps.AuthenticateConfig attribute)@\spxentry{name}\spxextra{authenticate.apps.AuthenticateConfig attribute}|hyperpage}{4}
+\indexentry{ready() (authenticate.apps.AuthenticateConfig method)@\spxentry{ready()}\spxextra{authenticate.apps.AuthenticateConfig method}|hyperpage}{4}
+\indexentry{module@\spxentry{module}!authenticate.models@\spxentry{authenticate.models}|hyperpage}{4}
+\indexentry{authenticate.models@\spxentry{authenticate.models}!module@\spxentry{module}|hyperpage}{4}
+\indexentry{module@\spxentry{module}!authenticate.views@\spxentry{authenticate.views}|hyperpage}{4}
+\indexentry{authenticate.views@\spxentry{authenticate.views}!module@\spxentry{module}|hyperpage}{4}
+\indexentry{login() (in module authenticate.views)@\spxentry{login()}\spxextra{in module authenticate.views}|hyperpage}{4}
+\indexentry{logout() (in module authenticate.views)@\spxentry{logout()}\spxextra{in module authenticate.views}|hyperpage}{4}
+\indexentry{module@\spxentry{module}!authenticate@\spxentry{authenticate}|hyperpage}{5}
+\indexentry{authenticate@\spxentry{authenticate}!module@\spxentry{module}|hyperpage}{5}
+\indexentry{module@\spxentry{module}!task\_management.asgi@\spxentry{task\_management.asgi}|hyperpage}{7}
+\indexentry{task\_management.asgi@\spxentry{task\_management.asgi}!module@\spxentry{module}|hyperpage}{7}
+\indexentry{module@\spxentry{module}!task\_management.consumers@\spxentry{task\_management.consumers}|hyperpage}{7}
+\indexentry{task\_management.consumers@\spxentry{task\_management.consumers}!module@\spxentry{module}|hyperpage}{7}
+\indexentry{TaskConsumer (class in task\_management.consumers)@\spxentry{TaskConsumer}\spxextra{class in task\_management.consumers}|hyperpage}{7}
+\indexentry{\_\_init\_\_() (task\_management.consumers.TaskConsumer method)@\spxentry{\_\_init\_\_()}\spxextra{task\_management.consumers.TaskConsumer method}|hyperpage}{7}
+\indexentry{\_sync (task\_management.consumers.TaskConsumer attribute)@\spxentry{\_sync}\spxextra{task\_management.consumers.TaskConsumer attribute}|hyperpage}{7}
+\indexentry{accept() (task\_management.consumers.TaskConsumer method)@\spxentry{accept()}\spxextra{task\_management.consumers.TaskConsumer method}|hyperpage}{7}
+\indexentry{as\_asgi() (task\_management.consumers.TaskConsumer class method)@\spxentry{as\_asgi()}\spxextra{task\_management.consumers.TaskConsumer class method}|hyperpage}{7}
+\indexentry{channel\_layer\_alias (task\_management.consumers.TaskConsumer attribute)@\spxentry{channel\_layer\_alias}\spxextra{task\_management.consumers.TaskConsumer attribute}|hyperpage}{7}
+\indexentry{close() (task\_management.consumers.TaskConsumer method)@\spxentry{close()}\spxextra{task\_management.consumers.TaskConsumer method}|hyperpage}{7}
+\indexentry{connect() (task\_management.consumers.TaskConsumer method)@\spxentry{connect()}\spxextra{task\_management.consumers.TaskConsumer method}|hyperpage}{7}
+\indexentry{disconnect() (task\_management.consumers.TaskConsumer method)@\spxentry{disconnect()}\spxextra{task\_management.consumers.TaskConsumer method}|hyperpage}{8}
+\indexentry{dispatch() (task\_management.consumers.TaskConsumer method)@\spxentry{dispatch()}\spxextra{task\_management.consumers.TaskConsumer method}|hyperpage}{8}
+\indexentry{groups (task\_management.consumers.TaskConsumer attribute)@\spxentry{groups}\spxextra{task\_management.consumers.TaskConsumer attribute}|hyperpage}{8}
+\indexentry{receive() (task\_management.consumers.TaskConsumer method)@\spxentry{receive()}\spxextra{task\_management.consumers.TaskConsumer method}|hyperpage}{8}
+\indexentry{send() (task\_management.consumers.TaskConsumer method)@\spxentry{send()}\spxextra{task\_management.consumers.TaskConsumer method}|hyperpage}{8}
+\indexentry{task\_message() (task\_management.consumers.TaskConsumer method)@\spxentry{task\_message()}\spxextra{task\_management.consumers.TaskConsumer method}|hyperpage}{8}
+\indexentry{websocket\_connect() (task\_management.consumers.TaskConsumer method)@\spxentry{websocket\_connect()}\spxextra{task\_management.consumers.TaskConsumer method}|hyperpage}{8}
+\indexentry{websocket\_disconnect() (task\_management.consumers.TaskConsumer method)@\spxentry{websocket\_disconnect()}\spxextra{task\_management.consumers.TaskConsumer method}|hyperpage}{8}
+\indexentry{websocket\_receive() (task\_management.consumers.TaskConsumer method)@\spxentry{websocket\_receive()}\spxextra{task\_management.consumers.TaskConsumer method}|hyperpage}{8}
+\indexentry{module@\spxentry{module}!task\_management.routing@\spxentry{task\_management.routing}|hyperpage}{8}
+\indexentry{task\_management.routing@\spxentry{task\_management.routing}!module@\spxentry{module}|hyperpage}{8}
+\indexentry{module@\spxentry{module}!task\_management.settings@\spxentry{task\_management.settings}|hyperpage}{8}
+\indexentry{task\_management.settings@\spxentry{task\_management.settings}!module@\spxentry{module}|hyperpage}{8}
+\indexentry{module@\spxentry{module}!task\_management.urls@\spxentry{task\_management.urls}|hyperpage}{9}
+\indexentry{task\_management.urls@\spxentry{task\_management.urls}!module@\spxentry{module}|hyperpage}{9}
+\indexentry{module@\spxentry{module}!task\_management.wsgi@\spxentry{task\_management.wsgi}|hyperpage}{9}
+\indexentry{task\_management.wsgi@\spxentry{task\_management.wsgi}!module@\spxentry{module}|hyperpage}{9}
+\indexentry{module@\spxentry{module}!task\_management@\spxentry{task\_management}|hyperpage}{9}
+\indexentry{task\_management@\spxentry{task\_management}!module@\spxentry{module}|hyperpage}{9}
+\indexentry{module@\spxentry{module}!open\_ai.migrations@\spxentry{open\_ai.migrations}|hyperpage}{11}
+\indexentry{open\_ai.migrations@\spxentry{open\_ai.migrations}!module@\spxentry{module}|hyperpage}{11}
+\indexentry{module@\spxentry{module}!open\_ai.admin@\spxentry{open\_ai.admin}|hyperpage}{11}
+\indexentry{open\_ai.admin@\spxentry{open\_ai.admin}!module@\spxentry{module}|hyperpage}{11}
+\indexentry{module@\spxentry{module}!open\_ai.apps@\spxentry{open\_ai.apps}|hyperpage}{11}
+\indexentry{open\_ai.apps@\spxentry{open\_ai.apps}!module@\spxentry{module}|hyperpage}{11}
+\indexentry{OpenAiConfig (class in open\_ai.apps)@\spxentry{OpenAiConfig}\spxextra{class in open\_ai.apps}|hyperpage}{11}
+\indexentry{\_\_init\_\_() (open\_ai.apps.OpenAiConfig method)@\spxentry{\_\_init\_\_()}\spxextra{open\_ai.apps.OpenAiConfig method}|hyperpage}{11}
+\indexentry{\_is\_default\_auto\_field\_overridden (open\_ai.apps.OpenAiConfig property)@\spxentry{\_is\_default\_auto\_field\_overridden}\spxextra{open\_ai.apps.OpenAiConfig property}|hyperpage}{11}
+\indexentry{\_path\_from\_module() (open\_ai.apps.OpenAiConfig method)@\spxentry{\_path\_from\_module()}\spxextra{open\_ai.apps.OpenAiConfig method}|hyperpage}{11}
+\indexentry{create() (open\_ai.apps.OpenAiConfig class method)@\spxentry{create()}\spxextra{open\_ai.apps.OpenAiConfig class method}|hyperpage}{11}
+\indexentry{default\_auto\_field (open\_ai.apps.OpenAiConfig attribute)@\spxentry{default\_auto\_field}\spxextra{open\_ai.apps.OpenAiConfig attribute}|hyperpage}{11}
+\indexentry{get\_model() (open\_ai.apps.OpenAiConfig method)@\spxentry{get\_model()}\spxextra{open\_ai.apps.OpenAiConfig method}|hyperpage}{11}
+\indexentry{get\_models() (open\_ai.apps.OpenAiConfig method)@\spxentry{get\_models()}\spxextra{open\_ai.apps.OpenAiConfig method}|hyperpage}{12}
+\indexentry{import\_models() (open\_ai.apps.OpenAiConfig method)@\spxentry{import\_models()}\spxextra{open\_ai.apps.OpenAiConfig method}|hyperpage}{12}
+\indexentry{name (open\_ai.apps.OpenAiConfig attribute)@\spxentry{name}\spxextra{open\_ai.apps.OpenAiConfig attribute}|hyperpage}{12}
+\indexentry{ready() (open\_ai.apps.OpenAiConfig method)@\spxentry{ready()}\spxextra{open\_ai.apps.OpenAiConfig method}|hyperpage}{12}
+\indexentry{module@\spxentry{module}!open\_ai.ollama\_phi@\spxentry{open\_ai.ollama\_phi}|hyperpage}{12}
+\indexentry{open\_ai.ollama\_phi@\spxentry{open\_ai.ollama\_phi}!module@\spxentry{module}|hyperpage}{12}
+\indexentry{get\_phi3\_response() (in module open\_ai.ollama\_phi)@\spxentry{get\_phi3\_response()}\spxextra{in module open\_ai.ollama\_phi}|hyperpage}{12}
+\indexentry{module@\spxentry{module}!open\_ai.urls@\spxentry{open\_ai.urls}|hyperpage}{12}
+\indexentry{open\_ai.urls@\spxentry{open\_ai.urls}!module@\spxentry{module}|hyperpage}{12}
+\indexentry{urlpatterns (in module open\_ai.urls)@\spxentry{urlpatterns}\spxextra{in module open\_ai.urls}|hyperpage}{12}
+\indexentry{module@\spxentry{module}!open\_ai.views@\spxentry{open\_ai.views}|hyperpage}{13}
+\indexentry{open\_ai.views@\spxentry{open\_ai.views}!module@\spxentry{module}|hyperpage}{13}
+\indexentry{chatphi() (in module open\_ai.views)@\spxentry{chatphi()}\spxextra{in module open\_ai.views}|hyperpage}{13}
+\indexentry{module@\spxentry{module}!open\_ai@\spxentry{open\_ai}|hyperpage}{13}
+\indexentry{open\_ai@\spxentry{open\_ai}!module@\spxentry{module}|hyperpage}{13}
+\indexentry{module@\spxentry{module}!tasks.migrations.0001\_initial@\spxentry{tasks.migrations.0001\_initial}|hyperpage}{15}
+\indexentry{tasks.migrations.0001\_initial@\spxentry{tasks.migrations.0001\_initial}!module@\spxentry{module}|hyperpage}{15}
+\indexentry{Migration (class in tasks.migrations.0001\_initial)@\spxentry{Migration}\spxextra{class in tasks.migrations.0001\_initial}|hyperpage}{15}
+\indexentry{\_\_init\_\_() (tasks.migrations.0001\_initial.Migration method)@\spxentry{\_\_init\_\_()}\spxextra{tasks.migrations.0001\_initial.Migration method}|hyperpage}{15}
+\indexentry{apply() (tasks.migrations.0001\_initial.Migration method)@\spxentry{apply()}\spxextra{tasks.migrations.0001\_initial.Migration method}|hyperpage}{15}
+\indexentry{atomic (tasks.migrations.0001\_initial.Migration attribute)@\spxentry{atomic}\spxextra{tasks.migrations.0001\_initial.Migration attribute}|hyperpage}{15}
+\indexentry{dependencies (tasks.migrations.0001\_initial.Migration attribute)@\spxentry{dependencies}\spxextra{tasks.migrations.0001\_initial.Migration attribute}|hyperpage}{15}
+\indexentry{initial (tasks.migrations.0001\_initial.Migration attribute)@\spxentry{initial}\spxextra{tasks.migrations.0001\_initial.Migration attribute}|hyperpage}{15}
+\indexentry{mutate\_state() (tasks.migrations.0001\_initial.Migration method)@\spxentry{mutate\_state()}\spxextra{tasks.migrations.0001\_initial.Migration method}|hyperpage}{15}
+\indexentry{operations (tasks.migrations.0001\_initial.Migration attribute)@\spxentry{operations}\spxextra{tasks.migrations.0001\_initial.Migration attribute}|hyperpage}{15}
+\indexentry{replaces (tasks.migrations.0001\_initial.Migration attribute)@\spxentry{replaces}\spxextra{tasks.migrations.0001\_initial.Migration attribute}|hyperpage}{15}
+\indexentry{run\_before (tasks.migrations.0001\_initial.Migration attribute)@\spxentry{run\_before}\spxextra{tasks.migrations.0001\_initial.Migration attribute}|hyperpage}{16}
+\indexentry{suggest\_name() (tasks.migrations.0001\_initial.Migration method)@\spxentry{suggest\_name()}\spxextra{tasks.migrations.0001\_initial.Migration method}|hyperpage}{16}
+\indexentry{unapply() (tasks.migrations.0001\_initial.Migration method)@\spxentry{unapply()}\spxextra{tasks.migrations.0001\_initial.Migration method}|hyperpage}{16}
+\indexentry{module@\spxentry{module}!tasks.migrations.0002\_alter\_task\_due\_date@\spxentry{tasks.migrations.0002\_alter\_task\_due\_date}|hyperpage}{16}
+\indexentry{tasks.migrations.0002\_alter\_task\_due\_date@\spxentry{tasks.migrations.0002\_alter\_task\_due\_date}!module@\spxentry{module}|hyperpage}{16}
+\indexentry{Migration (class in tasks.migrations.0002\_alter\_task\_due\_date)@\spxentry{Migration}\spxextra{class in tasks.migrations.0002\_alter\_task\_due\_date}|hyperpage}{16}
+\indexentry{\_\_init\_\_() (tasks.migrations.0002\_alter\_task\_due\_date.Migration method)@\spxentry{\_\_init\_\_()}\spxextra{tasks.migrations.0002\_alter\_task\_due\_date.Migration method}|hyperpage}{16}
+\indexentry{apply() (tasks.migrations.0002\_alter\_task\_due\_date.Migration method)@\spxentry{apply()}\spxextra{tasks.migrations.0002\_alter\_task\_due\_date.Migration method}|hyperpage}{16}
+\indexentry{atomic (tasks.migrations.0002\_alter\_task\_due\_date.Migration attribute)@\spxentry{atomic}\spxextra{tasks.migrations.0002\_alter\_task\_due\_date.Migration attribute}|hyperpage}{16}
+\indexentry{dependencies (tasks.migrations.0002\_alter\_task\_due\_date.Migration attribute)@\spxentry{dependencies}\spxextra{tasks.migrations.0002\_alter\_task\_due\_date.Migration attribute}|hyperpage}{16}
+\indexentry{initial (tasks.migrations.0002\_alter\_task\_due\_date.Migration attribute)@\spxentry{initial}\spxextra{tasks.migrations.0002\_alter\_task\_due\_date.Migration attribute}|hyperpage}{16}
+\indexentry{mutate\_state() (tasks.migrations.0002\_alter\_task\_due\_date.Migration method)@\spxentry{mutate\_state()}\spxextra{tasks.migrations.0002\_alter\_task\_due\_date.Migration method}|hyperpage}{16}
+\indexentry{operations (tasks.migrations.0002\_alter\_task\_due\_date.Migration attribute)@\spxentry{operations}\spxextra{tasks.migrations.0002\_alter\_task\_due\_date.Migration attribute}|hyperpage}{16}
+\indexentry{replaces (tasks.migrations.0002\_alter\_task\_due\_date.Migration attribute)@\spxentry{replaces}\spxextra{tasks.migrations.0002\_alter\_task\_due\_date.Migration attribute}|hyperpage}{16}
+\indexentry{run\_before (tasks.migrations.0002\_alter\_task\_due\_date.Migration attribute)@\spxentry{run\_before}\spxextra{tasks.migrations.0002\_alter\_task\_due\_date.Migration attribute}|hyperpage}{16}
+\indexentry{suggest\_name() (tasks.migrations.0002\_alter\_task\_due\_date.Migration method)@\spxentry{suggest\_name()}\spxextra{tasks.migrations.0002\_alter\_task\_due\_date.Migration method}|hyperpage}{16}
+\indexentry{unapply() (tasks.migrations.0002\_alter\_task\_due\_date.Migration method)@\spxentry{unapply()}\spxextra{tasks.migrations.0002\_alter\_task\_due\_date.Migration method}|hyperpage}{16}
+\indexentry{module@\spxentry{module}!tasks.migrations@\spxentry{tasks.migrations}|hyperpage}{17}
+\indexentry{tasks.migrations@\spxentry{tasks.migrations}!module@\spxentry{module}|hyperpage}{17}
+\indexentry{module@\spxentry{module}!tasks.admin@\spxentry{tasks.admin}|hyperpage}{17}
+\indexentry{tasks.admin@\spxentry{tasks.admin}!module@\spxentry{module}|hyperpage}{17}
+\indexentry{module@\spxentry{module}!tasks.apps@\spxentry{tasks.apps}|hyperpage}{17}
+\indexentry{tasks.apps@\spxentry{tasks.apps}!module@\spxentry{module}|hyperpage}{17}
+\indexentry{TasksConfig (class in tasks.apps)@\spxentry{TasksConfig}\spxextra{class in tasks.apps}|hyperpage}{17}
+\indexentry{\_\_init\_\_() (tasks.apps.TasksConfig method)@\spxentry{\_\_init\_\_()}\spxextra{tasks.apps.TasksConfig method}|hyperpage}{17}
+\indexentry{\_is\_default\_auto\_field\_overridden (tasks.apps.TasksConfig property)@\spxentry{\_is\_default\_auto\_field\_overridden}\spxextra{tasks.apps.TasksConfig property}|hyperpage}{17}
+\indexentry{\_path\_from\_module() (tasks.apps.TasksConfig method)@\spxentry{\_path\_from\_module()}\spxextra{tasks.apps.TasksConfig method}|hyperpage}{17}
+\indexentry{create() (tasks.apps.TasksConfig class method)@\spxentry{create()}\spxextra{tasks.apps.TasksConfig class method}|hyperpage}{17}
+\indexentry{default\_auto\_field (tasks.apps.TasksConfig attribute)@\spxentry{default\_auto\_field}\spxextra{tasks.apps.TasksConfig attribute}|hyperpage}{17}
+\indexentry{get\_model() (tasks.apps.TasksConfig method)@\spxentry{get\_model()}\spxextra{tasks.apps.TasksConfig method}|hyperpage}{17}
+\indexentry{get\_models() (tasks.apps.TasksConfig method)@\spxentry{get\_models()}\spxextra{tasks.apps.TasksConfig method}|hyperpage}{17}
+\indexentry{import\_models() (tasks.apps.TasksConfig method)@\spxentry{import\_models()}\spxextra{tasks.apps.TasksConfig method}|hyperpage}{17}
+\indexentry{name (tasks.apps.TasksConfig attribute)@\spxentry{name}\spxextra{tasks.apps.TasksConfig attribute}|hyperpage}{17}
+\indexentry{ready() (tasks.apps.TasksConfig method)@\spxentry{ready()}\spxextra{tasks.apps.TasksConfig method}|hyperpage}{17}
+\indexentry{module@\spxentry{module}!tasks.models@\spxentry{tasks.models}|hyperpage}{18}
+\indexentry{tasks.models@\spxentry{tasks.models}!module@\spxentry{module}|hyperpage}{18}
+\indexentry{Task (class in tasks.models)@\spxentry{Task}\spxextra{class in tasks.models}|hyperpage}{18}
+\indexentry{Task.DoesNotExist@\spxentry{Task.DoesNotExist}|hyperpage}{18}
+\indexentry{\_\_init\_\_() (tasks.models.Task.DoesNotExist method)@\spxentry{\_\_init\_\_()}\spxextra{tasks.models.Task.DoesNotExist method}|hyperpage}{18}
+\indexentry{add\_note() (tasks.models.Task.DoesNotExist method)@\spxentry{add\_note()}\spxextra{tasks.models.Task.DoesNotExist method}|hyperpage}{18}
+\indexentry{args (tasks.models.Task.DoesNotExist attribute)@\spxentry{args}\spxextra{tasks.models.Task.DoesNotExist attribute}|hyperpage}{18}
+\indexentry{silent\_variable\_failure (tasks.models.Task.DoesNotExist attribute)@\spxentry{silent\_variable\_failure}\spxextra{tasks.models.Task.DoesNotExist attribute}|hyperpage}{18}
+\indexentry{with\_traceback() (tasks.models.Task.DoesNotExist method)@\spxentry{with\_traceback()}\spxextra{tasks.models.Task.DoesNotExist method}|hyperpage}{18}
+\indexentry{Task.MultipleObjectsReturned@\spxentry{Task.MultipleObjectsReturned}|hyperpage}{18}
+\indexentry{\_\_init\_\_() (tasks.models.Task.MultipleObjectsReturned method)@\spxentry{\_\_init\_\_()}\spxextra{tasks.models.Task.MultipleObjectsReturned method}|hyperpage}{18}
+\indexentry{add\_note() (tasks.models.Task.MultipleObjectsReturned method)@\spxentry{add\_note()}\spxextra{tasks.models.Task.MultipleObjectsReturned method}|hyperpage}{18}
+\indexentry{args (tasks.models.Task.MultipleObjectsReturned attribute)@\spxentry{args}\spxextra{tasks.models.Task.MultipleObjectsReturned attribute}|hyperpage}{18}
+\indexentry{with\_traceback() (tasks.models.Task.MultipleObjectsReturned method)@\spxentry{with\_traceback()}\spxextra{tasks.models.Task.MultipleObjectsReturned method}|hyperpage}{18}
+\indexentry{\_\_init\_\_() (tasks.models.Task method)@\spxentry{\_\_init\_\_()}\spxextra{tasks.models.Task method}|hyperpage}{18}
+\indexentry{\_check\_column\_name\_clashes() (tasks.models.Task class method)@\spxentry{\_check\_column\_name\_clashes()}\spxextra{tasks.models.Task class method}|hyperpage}{18}
+\indexentry{\_check\_constraints() (tasks.models.Task class method)@\spxentry{\_check\_constraints()}\spxextra{tasks.models.Task class method}|hyperpage}{18}
+\indexentry{\_check\_db\_table\_comment() (tasks.models.Task class method)@\spxentry{\_check\_db\_table\_comment()}\spxextra{tasks.models.Task class method}|hyperpage}{18}
+\indexentry{\_check\_default\_pk() (tasks.models.Task class method)@\spxentry{\_check\_default\_pk()}\spxextra{tasks.models.Task class method}|hyperpage}{18}
+\indexentry{\_check\_field\_name\_clashes() (tasks.models.Task class method)@\spxentry{\_check\_field\_name\_clashes()}\spxextra{tasks.models.Task class method}|hyperpage}{18}
+\indexentry{\_check\_fields() (tasks.models.Task class method)@\spxentry{\_check\_fields()}\spxextra{tasks.models.Task class method}|hyperpage}{18}
+\indexentry{\_check\_id\_field() (tasks.models.Task class method)@\spxentry{\_check\_id\_field()}\spxextra{tasks.models.Task class method}|hyperpage}{18}
+\indexentry{\_check\_indexes() (tasks.models.Task class method)@\spxentry{\_check\_indexes()}\spxextra{tasks.models.Task class method}|hyperpage}{19}
+\indexentry{\_check\_local\_fields() (tasks.models.Task class method)@\spxentry{\_check\_local\_fields()}\spxextra{tasks.models.Task class method}|hyperpage}{19}
+\indexentry{\_check\_long\_column\_names() (tasks.models.Task class method)@\spxentry{\_check\_long\_column\_names()}\spxextra{tasks.models.Task class method}|hyperpage}{19}
+\indexentry{\_check\_m2m\_through\_same\_relationship() (tasks.models.Task class method)@\spxentry{\_check\_m2m\_through\_same\_relationship()}\spxextra{tasks.models.Task class method}|hyperpage}{19}
+\indexentry{\_check\_managers() (tasks.models.Task class method)@\spxentry{\_check\_managers()}\spxextra{tasks.models.Task class method}|hyperpage}{19}
+\indexentry{\_check\_model() (tasks.models.Task class method)@\spxentry{\_check\_model()}\spxextra{tasks.models.Task class method}|hyperpage}{19}
+\indexentry{\_check\_model\_name\_db\_lookup\_clashes() (tasks.models.Task class method)@\spxentry{\_check\_model\_name\_db\_lookup\_clashes()}\spxextra{tasks.models.Task class method}|hyperpage}{19}
+\indexentry{\_check\_ordering() (tasks.models.Task class method)@\spxentry{\_check\_ordering()}\spxextra{tasks.models.Task class method}|hyperpage}{19}
+\indexentry{\_check\_property\_name\_related\_field\_accessor\_clashes() (tasks.models.Task class method)@\spxentry{\_check\_property\_name\_related\_field\_accessor\_clashes()}\spxextra{tasks.models.Task class method}|hyperpage}{19}
+\indexentry{\_check\_single\_primary\_key() (tasks.models.Task class method)@\spxentry{\_check\_single\_primary\_key()}\spxextra{tasks.models.Task class method}|hyperpage}{19}
+\indexentry{\_check\_swappable() (tasks.models.Task class method)@\spxentry{\_check\_swappable()}\spxextra{tasks.models.Task class method}|hyperpage}{19}
+\indexentry{\_check\_unique\_together() (tasks.models.Task class method)@\spxentry{\_check\_unique\_together()}\spxextra{tasks.models.Task class method}|hyperpage}{19}
+\indexentry{\_do\_insert() (tasks.models.Task method)@\spxentry{\_do\_insert()}\spxextra{tasks.models.Task method}|hyperpage}{19}
+\indexentry{\_do\_update() (tasks.models.Task method)@\spxentry{\_do\_update()}\spxextra{tasks.models.Task method}|hyperpage}{19}
+\indexentry{\_get\_FIELD\_display() (tasks.models.Task method)@\spxentry{\_get\_FIELD\_display()}\spxextra{tasks.models.Task method}|hyperpage}{19}
+\indexentry{\_get\_expr\_references() (tasks.models.Task class method)@\spxentry{\_get\_expr\_references()}\spxextra{tasks.models.Task class method}|hyperpage}{19}
+\indexentry{\_get\_field\_expression\_map() (tasks.models.Task method)@\spxentry{\_get\_field\_expression\_map()}\spxextra{tasks.models.Task method}|hyperpage}{19}
+\indexentry{\_get\_next\_or\_previous\_by\_FIELD() (tasks.models.Task method)@\spxentry{\_get\_next\_or\_previous\_by\_FIELD()}\spxextra{tasks.models.Task method}|hyperpage}{19}
+\indexentry{\_get\_next\_or\_previous\_in\_order() (tasks.models.Task method)@\spxentry{\_get\_next\_or\_previous\_in\_order()}\spxextra{tasks.models.Task method}|hyperpage}{19}
+\indexentry{\_get\_pk\_val() (tasks.models.Task method)@\spxentry{\_get\_pk\_val()}\spxextra{tasks.models.Task method}|hyperpage}{19}
+\indexentry{\_get\_unique\_checks() (tasks.models.Task method)@\spxentry{\_get\_unique\_checks()}\spxextra{tasks.models.Task method}|hyperpage}{19}
+\indexentry{\_meta (tasks.models.Task attribute)@\spxentry{\_meta}\spxextra{tasks.models.Task attribute}|hyperpage}{19}
+\indexentry{\_parse\_params() (tasks.models.Task method)@\spxentry{\_parse\_params()}\spxextra{tasks.models.Task method}|hyperpage}{20}
+\indexentry{\_perform\_date\_checks() (tasks.models.Task method)@\spxentry{\_perform\_date\_checks()}\spxextra{tasks.models.Task method}|hyperpage}{20}
+\indexentry{\_perform\_unique\_checks() (tasks.models.Task method)@\spxentry{\_perform\_unique\_checks()}\spxextra{tasks.models.Task method}|hyperpage}{20}
+\indexentry{\_prepare\_related\_fields\_for\_save() (tasks.models.Task method)@\spxentry{\_prepare\_related\_fields\_for\_save()}\spxextra{tasks.models.Task method}|hyperpage}{20}
+\indexentry{\_save\_parents() (tasks.models.Task method)@\spxentry{\_save\_parents()}\spxextra{tasks.models.Task method}|hyperpage}{20}
+\indexentry{\_save\_table() (tasks.models.Task method)@\spxentry{\_save\_table()}\spxextra{tasks.models.Task method}|hyperpage}{20}
+\indexentry{\_set\_pk\_val() (tasks.models.Task method)@\spxentry{\_set\_pk\_val()}\spxextra{tasks.models.Task method}|hyperpage}{20}
+\indexentry{\_validate\_force\_insert() (tasks.models.Task class method)@\spxentry{\_validate\_force\_insert()}\spxextra{tasks.models.Task class method}|hyperpage}{20}
+\indexentry{adelete() (tasks.models.Task method)@\spxentry{adelete()}\spxextra{tasks.models.Task method}|hyperpage}{20}
+\indexentry{arefresh\_from\_db() (tasks.models.Task method)@\spxentry{arefresh\_from\_db()}\spxextra{tasks.models.Task method}|hyperpage}{20}
+\indexentry{asave() (tasks.models.Task method)@\spxentry{asave()}\spxextra{tasks.models.Task method}|hyperpage}{20}
+\indexentry{assigned\_to (tasks.models.Task attribute)@\spxentry{assigned\_to}\spxextra{tasks.models.Task attribute}|hyperpage}{20}
+\indexentry{assigned\_to\_id (tasks.models.Task attribute)@\spxentry{assigned\_to\_id}\spxextra{tasks.models.Task attribute}|hyperpage}{20}
+\indexentry{check() (tasks.models.Task class method)@\spxentry{check()}\spxextra{tasks.models.Task class method}|hyperpage}{20}
+\indexentry{clean() (tasks.models.Task method)@\spxentry{clean()}\spxextra{tasks.models.Task method}|hyperpage}{20}
+\indexentry{clean\_fields() (tasks.models.Task method)@\spxentry{clean\_fields()}\spxextra{tasks.models.Task method}|hyperpage}{20}
+\indexentry{created\_at (tasks.models.Task attribute)@\spxentry{created\_at}\spxextra{tasks.models.Task attribute}|hyperpage}{20}
+\indexentry{date\_error\_message() (tasks.models.Task method)@\spxentry{date\_error\_message()}\spxextra{tasks.models.Task method}|hyperpage}{20}
+\indexentry{delete() (tasks.models.Task method)@\spxentry{delete()}\spxextra{tasks.models.Task method}|hyperpage}{20}
+\indexentry{description (tasks.models.Task attribute)@\spxentry{description}\spxextra{tasks.models.Task attribute}|hyperpage}{20}
+\indexentry{due\_date (tasks.models.Task attribute)@\spxentry{due\_date}\spxextra{tasks.models.Task attribute}|hyperpage}{21}
+\indexentry{from\_db() (tasks.models.Task class method)@\spxentry{from\_db()}\spxextra{tasks.models.Task class method}|hyperpage}{21}
+\indexentry{full\_clean() (tasks.models.Task method)@\spxentry{full\_clean()}\spxextra{tasks.models.Task method}|hyperpage}{21}
+\indexentry{get\_constraints() (tasks.models.Task method)@\spxentry{get\_constraints()}\spxextra{tasks.models.Task method}|hyperpage}{21}
+\indexentry{get\_deferred\_fields() (tasks.models.Task method)@\spxentry{get\_deferred\_fields()}\spxextra{tasks.models.Task method}|hyperpage}{21}
+\indexentry{get\_next\_by\_created\_at() (tasks.models.Task method)@\spxentry{get\_next\_by\_created\_at()}\spxextra{tasks.models.Task method}|hyperpage}{21}
+\indexentry{get\_previous\_by\_created\_at() (tasks.models.Task method)@\spxentry{get\_previous\_by\_created\_at()}\spxextra{tasks.models.Task method}|hyperpage}{21}
+\indexentry{get\_status\_display() (tasks.models.Task method)@\spxentry{get\_status\_display()}\spxextra{tasks.models.Task method}|hyperpage}{21}
+\indexentry{id (tasks.models.Task attribute)@\spxentry{id}\spxextra{tasks.models.Task attribute}|hyperpage}{21}
+\indexentry{objects (tasks.models.Task attribute)@\spxentry{objects}\spxextra{tasks.models.Task attribute}|hyperpage}{21}
+\indexentry{pk (tasks.models.Task property)@\spxentry{pk}\spxextra{tasks.models.Task property}|hyperpage}{21}
+\indexentry{prepare\_database\_save() (tasks.models.Task method)@\spxentry{prepare\_database\_save()}\spxextra{tasks.models.Task method}|hyperpage}{21}
+\indexentry{refresh\_from\_db() (tasks.models.Task method)@\spxentry{refresh\_from\_db()}\spxextra{tasks.models.Task method}|hyperpage}{21}
+\indexentry{save() (tasks.models.Task method)@\spxentry{save()}\spxextra{tasks.models.Task method}|hyperpage}{21}
+\indexentry{save\_base() (tasks.models.Task method)@\spxentry{save\_base()}\spxextra{tasks.models.Task method}|hyperpage}{21}
+\indexentry{serializable\_value() (tasks.models.Task method)@\spxentry{serializable\_value()}\spxextra{tasks.models.Task method}|hyperpage}{21}
+\indexentry{status (tasks.models.Task attribute)@\spxentry{status}\spxextra{tasks.models.Task attribute}|hyperpage}{22}
+\indexentry{title (tasks.models.Task attribute)@\spxentry{title}\spxextra{tasks.models.Task attribute}|hyperpage}{22}
+\indexentry{unique\_error\_message() (tasks.models.Task method)@\spxentry{unique\_error\_message()}\spxextra{tasks.models.Task method}|hyperpage}{22}
+\indexentry{validate\_constraints() (tasks.models.Task method)@\spxentry{validate\_constraints()}\spxextra{tasks.models.Task method}|hyperpage}{22}
+\indexentry{validate\_unique() (tasks.models.Task method)@\spxentry{validate\_unique()}\spxextra{tasks.models.Task method}|hyperpage}{22}
+\indexentry{module@\spxentry{module}!tasks.serializers@\spxentry{tasks.serializers}|hyperpage}{22}
+\indexentry{tasks.serializers@\spxentry{tasks.serializers}!module@\spxentry{module}|hyperpage}{22}
+\indexentry{TaskSerializer (class in tasks.serializers)@\spxentry{TaskSerializer}\spxextra{class in tasks.serializers}|hyperpage}{22}
+\indexentry{TaskSerializer.Meta (class in tasks.serializers)@\spxentry{TaskSerializer.Meta}\spxextra{class in tasks.serializers}|hyperpage}{22}
+\indexentry{fields (tasks.serializers.TaskSerializer.Meta attribute)@\spxentry{fields}\spxextra{tasks.serializers.TaskSerializer.Meta attribute}|hyperpage}{22}
+\indexentry{model (tasks.serializers.TaskSerializer.Meta attribute)@\spxentry{model}\spxextra{tasks.serializers.TaskSerializer.Meta attribute}|hyperpage}{22}
+\indexentry{\_\_init\_\_() (tasks.serializers.TaskSerializer method)@\spxentry{\_\_init\_\_()}\spxextra{tasks.serializers.TaskSerializer method}|hyperpage}{22}
+\indexentry{\_creation\_counter (tasks.serializers.TaskSerializer attribute)@\spxentry{\_creation\_counter}\spxextra{tasks.serializers.TaskSerializer attribute}|hyperpage}{22}
+\indexentry{\_declared\_fields (tasks.serializers.TaskSerializer attribute)@\spxentry{\_declared\_fields}\spxextra{tasks.serializers.TaskSerializer attribute}|hyperpage}{22}
+\indexentry{\_get\_model\_fields() (tasks.serializers.TaskSerializer method)@\spxentry{\_get\_model\_fields()}\spxextra{tasks.serializers.TaskSerializer method}|hyperpage}{22}
+\indexentry{\_read\_only\_defaults() (tasks.serializers.TaskSerializer method)@\spxentry{\_read\_only\_defaults()}\spxextra{tasks.serializers.TaskSerializer method}|hyperpage}{22}
+\indexentry{\_readable\_fields (tasks.serializers.TaskSerializer property)@\spxentry{\_readable\_fields}\spxextra{tasks.serializers.TaskSerializer property}|hyperpage}{22}
+\indexentry{\_writable\_fields (tasks.serializers.TaskSerializer property)@\spxentry{\_writable\_fields}\spxextra{tasks.serializers.TaskSerializer property}|hyperpage}{23}
+\indexentry{bind() (tasks.serializers.TaskSerializer method)@\spxentry{bind()}\spxextra{tasks.serializers.TaskSerializer method}|hyperpage}{23}
+\indexentry{build\_field() (tasks.serializers.TaskSerializer method)@\spxentry{build\_field()}\spxextra{tasks.serializers.TaskSerializer method}|hyperpage}{23}
+\indexentry{build\_nested\_field() (tasks.serializers.TaskSerializer method)@\spxentry{build\_nested\_field()}\spxextra{tasks.serializers.TaskSerializer method}|hyperpage}{23}
+\indexentry{build\_property\_field() (tasks.serializers.TaskSerializer method)@\spxentry{build\_property\_field()}\spxextra{tasks.serializers.TaskSerializer method}|hyperpage}{23}
+\indexentry{build\_relational\_field() (tasks.serializers.TaskSerializer method)@\spxentry{build\_relational\_field()}\spxextra{tasks.serializers.TaskSerializer method}|hyperpage}{23}
+\indexentry{build\_standard\_field() (tasks.serializers.TaskSerializer method)@\spxentry{build\_standard\_field()}\spxextra{tasks.serializers.TaskSerializer method}|hyperpage}{23}
+\indexentry{build\_unknown\_field() (tasks.serializers.TaskSerializer method)@\spxentry{build\_unknown\_field()}\spxextra{tasks.serializers.TaskSerializer method}|hyperpage}{23}
+\indexentry{build\_url\_field() (tasks.serializers.TaskSerializer method)@\spxentry{build\_url\_field()}\spxextra{tasks.serializers.TaskSerializer method}|hyperpage}{23}
+\indexentry{context (tasks.serializers.TaskSerializer property)@\spxentry{context}\spxextra{tasks.serializers.TaskSerializer property}|hyperpage}{23}
+\indexentry{create() (tasks.serializers.TaskSerializer method)@\spxentry{create()}\spxextra{tasks.serializers.TaskSerializer method}|hyperpage}{23}
+\indexentry{data (tasks.serializers.TaskSerializer property)@\spxentry{data}\spxextra{tasks.serializers.TaskSerializer property}|hyperpage}{23}
+\indexentry{default\_empty\_html (tasks.serializers.TaskSerializer attribute)@\spxentry{default\_empty\_html}\spxextra{tasks.serializers.TaskSerializer attribute}|hyperpage}{23}
+\indexentry{default\_error\_messages (tasks.serializers.TaskSerializer attribute)@\spxentry{default\_error\_messages}\spxextra{tasks.serializers.TaskSerializer attribute}|hyperpage}{23}
+\indexentry{default\_validators (tasks.serializers.TaskSerializer attribute)@\spxentry{default\_validators}\spxextra{tasks.serializers.TaskSerializer attribute}|hyperpage}{23}
+\indexentry{errors (tasks.serializers.TaskSerializer property)@\spxentry{errors}\spxextra{tasks.serializers.TaskSerializer property}|hyperpage}{23}
+\indexentry{fail() (tasks.serializers.TaskSerializer method)@\spxentry{fail()}\spxextra{tasks.serializers.TaskSerializer method}|hyperpage}{23}
+\indexentry{fields (tasks.serializers.TaskSerializer attribute)@\spxentry{fields}\spxextra{tasks.serializers.TaskSerializer attribute}|hyperpage}{24}
+\indexentry{get\_attribute() (tasks.serializers.TaskSerializer method)@\spxentry{get\_attribute()}\spxextra{tasks.serializers.TaskSerializer method}|hyperpage}{24}
+\indexentry{get\_default() (tasks.serializers.TaskSerializer method)@\spxentry{get\_default()}\spxextra{tasks.serializers.TaskSerializer method}|hyperpage}{24}
+\indexentry{get\_default\_field\_names() (tasks.serializers.TaskSerializer method)@\spxentry{get\_default\_field\_names()}\spxextra{tasks.serializers.TaskSerializer method}|hyperpage}{24}
+\indexentry{get\_extra\_kwargs() (tasks.serializers.TaskSerializer method)@\spxentry{get\_extra\_kwargs()}\spxextra{tasks.serializers.TaskSerializer method}|hyperpage}{24}
+\indexentry{get\_field\_names() (tasks.serializers.TaskSerializer method)@\spxentry{get\_field\_names()}\spxextra{tasks.serializers.TaskSerializer method}|hyperpage}{24}
+\indexentry{get\_fields() (tasks.serializers.TaskSerializer method)@\spxentry{get\_fields()}\spxextra{tasks.serializers.TaskSerializer method}|hyperpage}{24}
+\indexentry{get\_initial() (tasks.serializers.TaskSerializer method)@\spxentry{get\_initial()}\spxextra{tasks.serializers.TaskSerializer method}|hyperpage}{24}
+\indexentry{get\_unique\_for\_date\_validators() (tasks.serializers.TaskSerializer method)@\spxentry{get\_unique\_for\_date\_validators()}\spxextra{tasks.serializers.TaskSerializer method}|hyperpage}{24}
+\indexentry{get\_unique\_together\_constraints() (tasks.serializers.TaskSerializer method)@\spxentry{get\_unique\_together\_constraints()}\spxextra{tasks.serializers.TaskSerializer method}|hyperpage}{24}
+\indexentry{get\_unique\_together\_validators() (tasks.serializers.TaskSerializer method)@\spxentry{get\_unique\_together\_validators()}\spxextra{tasks.serializers.TaskSerializer method}|hyperpage}{24}
+\indexentry{get\_uniqueness\_extra\_kwargs() (tasks.serializers.TaskSerializer method)@\spxentry{get\_uniqueness\_extra\_kwargs()}\spxextra{tasks.serializers.TaskSerializer method}|hyperpage}{24}
+\indexentry{get\_validators() (tasks.serializers.TaskSerializer method)@\spxentry{get\_validators()}\spxextra{tasks.serializers.TaskSerializer method}|hyperpage}{24}
+\indexentry{get\_value() (tasks.serializers.TaskSerializer method)@\spxentry{get\_value()}\spxextra{tasks.serializers.TaskSerializer method}|hyperpage}{24}
+\indexentry{include\_extra\_kwargs() (tasks.serializers.TaskSerializer method)@\spxentry{include\_extra\_kwargs()}\spxextra{tasks.serializers.TaskSerializer method}|hyperpage}{24}
+\indexentry{initial (tasks.serializers.TaskSerializer attribute)@\spxentry{initial}\spxextra{tasks.serializers.TaskSerializer attribute}|hyperpage}{25}
+\indexentry{is\_valid() (tasks.serializers.TaskSerializer method)@\spxentry{is\_valid()}\spxextra{tasks.serializers.TaskSerializer method}|hyperpage}{25}
+\indexentry{many\_init() (tasks.serializers.TaskSerializer class method)@\spxentry{many\_init()}\spxextra{tasks.serializers.TaskSerializer class method}|hyperpage}{25}
+\indexentry{root (tasks.serializers.TaskSerializer property)@\spxentry{root}\spxextra{tasks.serializers.TaskSerializer property}|hyperpage}{25}
+\indexentry{run\_validation() (tasks.serializers.TaskSerializer method)@\spxentry{run\_validation()}\spxextra{tasks.serializers.TaskSerializer method}|hyperpage}{25}
+\indexentry{run\_validators() (tasks.serializers.TaskSerializer method)@\spxentry{run\_validators()}\spxextra{tasks.serializers.TaskSerializer method}|hyperpage}{25}
+\indexentry{save() (tasks.serializers.TaskSerializer method)@\spxentry{save()}\spxextra{tasks.serializers.TaskSerializer method}|hyperpage}{25}
+\indexentry{serializer\_choice\_field (tasks.serializers.TaskSerializer attribute)@\spxentry{serializer\_choice\_field}\spxextra{tasks.serializers.TaskSerializer attribute}|hyperpage}{25}
+\indexentry{serializer\_field\_mapping (tasks.serializers.TaskSerializer attribute)@\spxentry{serializer\_field\_mapping}\spxextra{tasks.serializers.TaskSerializer attribute}|hyperpage}{25}
+\indexentry{serializer\_related\_field (tasks.serializers.TaskSerializer attribute)@\spxentry{serializer\_related\_field}\spxextra{tasks.serializers.TaskSerializer attribute}|hyperpage}{26}
+\indexentry{serializer\_related\_to\_field (tasks.serializers.TaskSerializer attribute)@\spxentry{serializer\_related\_to\_field}\spxextra{tasks.serializers.TaskSerializer attribute}|hyperpage}{27}
+\indexentry{serializer\_url\_field (tasks.serializers.TaskSerializer attribute)@\spxentry{serializer\_url\_field}\spxextra{tasks.serializers.TaskSerializer attribute}|hyperpage}{27}
+\indexentry{set\_value() (tasks.serializers.TaskSerializer method)@\spxentry{set\_value()}\spxextra{tasks.serializers.TaskSerializer method}|hyperpage}{27}
+\indexentry{to\_internal\_value() (tasks.serializers.TaskSerializer method)@\spxentry{to\_internal\_value()}\spxextra{tasks.serializers.TaskSerializer method}|hyperpage}{27}
+\indexentry{to\_representation() (tasks.serializers.TaskSerializer method)@\spxentry{to\_representation()}\spxextra{tasks.serializers.TaskSerializer method}|hyperpage}{27}
+\indexentry{update() (tasks.serializers.TaskSerializer method)@\spxentry{update()}\spxextra{tasks.serializers.TaskSerializer method}|hyperpage}{27}
+\indexentry{url\_field\_name (tasks.serializers.TaskSerializer attribute)@\spxentry{url\_field\_name}\spxextra{tasks.serializers.TaskSerializer attribute}|hyperpage}{27}
+\indexentry{validate() (tasks.serializers.TaskSerializer method)@\spxentry{validate()}\spxextra{tasks.serializers.TaskSerializer method}|hyperpage}{27}
+\indexentry{validate\_empty\_values() (tasks.serializers.TaskSerializer method)@\spxentry{validate\_empty\_values()}\spxextra{tasks.serializers.TaskSerializer method}|hyperpage}{27}
+\indexentry{validated\_data (tasks.serializers.TaskSerializer property)@\spxentry{validated\_data}\spxextra{tasks.serializers.TaskSerializer property}|hyperpage}{27}
+\indexentry{validators (tasks.serializers.TaskSerializer property)@\spxentry{validators}\spxextra{tasks.serializers.TaskSerializer property}|hyperpage}{27}
+\indexentry{module@\spxentry{module}!tasks.urls@\spxentry{tasks.urls}|hyperpage}{27}
+\indexentry{tasks.urls@\spxentry{tasks.urls}!module@\spxentry{module}|hyperpage}{27}
+\indexentry{urlpatterns (in module tasks.urls)@\spxentry{urlpatterns}\spxextra{in module tasks.urls}|hyperpage}{27}
+\indexentry{module@\spxentry{module}!tasks.views@\spxentry{tasks.views}|hyperpage}{28}
+\indexentry{tasks.views@\spxentry{tasks.views}!module@\spxentry{module}|hyperpage}{28}
+\indexentry{create\_task() (in module tasks.views)@\spxentry{create\_task()}\spxextra{in module tasks.views}|hyperpage}{28}
+\indexentry{delete\_task() (in module tasks.views)@\spxentry{delete\_task()}\spxextra{in module tasks.views}|hyperpage}{28}
+\indexentry{index() (in module tasks.views)@\spxentry{index()}\spxextra{in module tasks.views}|hyperpage}{28}
+\indexentry{update\_task() (in module tasks.views)@\spxentry{update\_task()}\spxextra{in module tasks.views}|hyperpage}{28}
+\indexentry{module@\spxentry{module}!tasks@\spxentry{tasks}|hyperpage}{29}
+\indexentry{tasks@\spxentry{tasks}!module@\spxentry{module}|hyperpage}{29}

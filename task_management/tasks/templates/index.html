@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Task Management System</title>
+    {% load static %}
+    <link rel="stylesheet" href="{% static 'css/task.css' %}">
+    <!-- <script>
+        var websocketUrl = 'ws://localhost:8000/ws/tasks/';
+        var socket = new WebSocket(websocketUrl);
+
+        socket.onmessage = function(e) {
+            var data = JSON.parse(e.data);
+            var tasksDiv = document.getElementById('tasks');
+            tasksDiv.innerHTML += '<p>' + data.message + '</p>'; // Display real-time task updates
+        };
+    </script> -->
+</head>
+<body>
+    <h1>Task Management</h1>
+    
+    <div id="tasks">
+        <div class="nav">
+            <a href="{% url 'chatphi' %}">OpenAI</a>
+            <a href="{% url 'documentation' %}">Documentation</a>  <!-- Link to documentation -->
+        </div>
+        <!-- Tasks will be populated here -->
+        {% for task in tasks %}
+        <div class="task-item">
+            <p>{{ task.title }} - {{ task.status }}</p>
+            
+            {% if task.id %}
+            <form action="{% url 'delete_task' task.id %}" method="POST" style="display: inline;">
+                {% csrf_token %}
+                <button type="submit">Delete</button>
+            </form>
+            <button onclick="location.href='{% url 'update_task' task.id %}'">Update</button>
+            {% endif %}
+        </div>
+        {% endfor %}
+        {% if messages %}
+        <ul class="messages">
+            {% for message in messages %}
+                <li{% if message.tags %} class="{{ message.tags }}"{% endif %}>{{ message }}</li>
+            {% endfor %}
+        </ul>
+        {% endif %}
+    </div>
+
+    <!-- Add some space between the task list and the create task button -->
+    <button class="create-task-btn" onclick="location.href='{% url 'create_task' %}'">Create Task</button>
+    <div id="notification-container"></div> <!-- To display notifications -->
+
+    <script>
+        // Establish WebSocket connection using Django Channels
+        const socket = new WebSocket('ws://' + window.location.host + '/ws/tasks/');
+
+        // Connection opened
+        socket.onopen = function (e) {
+            console.log("WebSocket connection established.");
+        };
+
+        // Listen for messages from the server
+        socket.onmessage = function (e) {
+            const data = JSON.parse(e.data);
+            const message = data.message;
+
+            // Log message or show notification
+            console.log('Received:', message);
+            displayNotification(message);  // Call the function to display the notification
+        };
+
+        // Display WebSocket connection errors
+        socket.onerror = function (error) {
+            console.error('WebSocket Error:', error);
+        };
+
+        // Connection closed
+        socket.onclose = function (e) {
+            console.log("WebSocket connection closed.");
+        };
+
+        // Function to display notifications on the page
+        function displayNotification(message) {
+            const container = document.getElementById('notification-container');
+            const notification = document.createElement('div');
+            notification.classList.add('notification');  // Add CSS class for styling if needed
+            notification.textContent = message;
+
+            // Add notification to the container
+            container.appendChild(notification);
+
+            // Optionally remove the notification after a few seconds (e.g., after 5 seconds)
+            setTimeout(() => {
+                notification.remove();
+            }, 5000);  // Remove after 5 seconds
+        }
+    </script>
+</body>
+</html>

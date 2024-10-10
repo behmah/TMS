@@ -1,0 +1,23 @@
+/* Center the main title */
+h1 {
+    text-align: center;
+    margin-top: 50px; /* Adjust the margin as necessary */
+}
+
+/* Align the author and release information at the bottom */
+.footer {
+    position: absolute;
+    bottom: 20px; /* Adjust as necessary */
+    left: 0;
+    right: 0;
+    text-align: left;
+    padding-left: 20px; /* Align to the left */
+}
+
+.footer .author {
+    float: left; /* Aligns author to the left */
+}
+
+.footer .release {
+    float: right; /* Aligns release date to the right */
+}

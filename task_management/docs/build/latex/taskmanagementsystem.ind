@@ -1,0 +1,496 @@
+\begin{sphinxtheindex}
+\let\bigletter\sphinxstyleindexlettergroup
+\let\spxpagem \sphinxstyleindexpagemain
+\let\spxentry \sphinxstyleindexentry
+\let\spxextra \sphinxstyleindexextra
+
+  \bigletter {\sphinxsymbolsname}
+  \item \spxentry{\_\_init\_\_()}\spxextra{authenticate.apps.AuthenticateConfig method}, 
+		\hyperpage{3}
+  \item \spxentry{\_\_init\_\_()}\spxextra{open\_ai.apps.OpenAiConfig method}, \hyperpage{11}
+  \item \spxentry{\_\_init\_\_()}\spxextra{task\_management.consumers.TaskConsumer method}, 
+		\hyperpage{7}
+  \item \spxentry{\_\_init\_\_()}\spxextra{tasks.apps.TasksConfig method}, \hyperpage{17}
+  \item \spxentry{\_\_init\_\_()}\spxextra{tasks.migrations.0001\_initial.Migration method}, 
+		\hyperpage{15}
+  \item \spxentry{\_\_init\_\_()}\spxextra{tasks.migrations.0002\_alter\_task\_due\_date.Migration method}, 
+		\hyperpage{16}
+  \item \spxentry{\_\_init\_\_()}\spxextra{tasks.models.Task method}, \hyperpage{18}
+  \item \spxentry{\_\_init\_\_()}\spxextra{tasks.models.Task.DoesNotExist method}, \hyperpage{18}
+  \item \spxentry{\_\_init\_\_()}\spxextra{tasks.models.Task.MultipleObjectsReturned method}, 
+		\hyperpage{18}
+  \item \spxentry{\_\_init\_\_()}\spxextra{tasks.serializers.TaskSerializer method}, \hyperpage{22}
+  \item \spxentry{\_check\_column\_name\_clashes()}\spxextra{tasks.models.Task class method}, 
+		\hyperpage{18}
+  \item \spxentry{\_check\_constraints()}\spxextra{tasks.models.Task class method}, \hyperpage{18}
+  \item \spxentry{\_check\_db\_table\_comment()}\spxextra{tasks.models.Task class method}, 
+		\hyperpage{18}
+  \item \spxentry{\_check\_default\_pk()}\spxextra{tasks.models.Task class method}, \hyperpage{18}
+  \item \spxentry{\_check\_field\_name\_clashes()}\spxextra{tasks.models.Task class method}, 
+		\hyperpage{18}
+  \item \spxentry{\_check\_fields()}\spxextra{tasks.models.Task class method}, \hyperpage{18}
+  \item \spxentry{\_check\_id\_field()}\spxextra{tasks.models.Task class method}, \hyperpage{18}
+  \item \spxentry{\_check\_indexes()}\spxextra{tasks.models.Task class method}, \hyperpage{19}
+  \item \spxentry{\_check\_local\_fields()}\spxextra{tasks.models.Task class method}, 
+		\hyperpage{19}
+  \item \spxentry{\_check\_long\_column\_names()}\spxextra{tasks.models.Task class method}, 
+		\hyperpage{19}
+  \item \spxentry{\_check\_m2m\_through\_same\_relationship()}\spxextra{tasks.models.Task class method}, 
+		\hyperpage{19}
+  \item \spxentry{\_check\_managers()}\spxextra{tasks.models.Task class method}, \hyperpage{19}
+  \item \spxentry{\_check\_model()}\spxextra{tasks.models.Task class method}, \hyperpage{19}
+  \item \spxentry{\_check\_model\_name\_db\_lookup\_clashes()}\spxextra{tasks.models.Task class method}, 
+		\hyperpage{19}
+  \item \spxentry{\_check\_ordering()}\spxextra{tasks.models.Task class method}, \hyperpage{19}
+  \item \spxentry{\_check\_property\_name\_related\_field\_accessor\_clashes()}\spxextra{tasks.models.Task class method}, 
+		\hyperpage{19}
+  \item \spxentry{\_check\_single\_primary\_key()}\spxextra{tasks.models.Task class method}, 
+		\hyperpage{19}
+  \item \spxentry{\_check\_swappable()}\spxextra{tasks.models.Task class method}, \hyperpage{19}
+  \item \spxentry{\_check\_unique\_together()}\spxextra{tasks.models.Task class method}, 
+		\hyperpage{19}
+  \item \spxentry{\_creation\_counter}\spxextra{tasks.serializers.TaskSerializer attribute}, 
+		\hyperpage{22}
+  \item \spxentry{\_declared\_fields}\spxextra{tasks.serializers.TaskSerializer attribute}, 
+		\hyperpage{22}
+  \item \spxentry{\_do\_insert()}\spxextra{tasks.models.Task method}, \hyperpage{19}
+  \item \spxentry{\_do\_update()}\spxextra{tasks.models.Task method}, \hyperpage{19}
+  \item \spxentry{\_get\_FIELD\_display()}\spxextra{tasks.models.Task method}, \hyperpage{19}
+  \item \spxentry{\_get\_expr\_references()}\spxextra{tasks.models.Task class method}, 
+		\hyperpage{19}
+  \item \spxentry{\_get\_field\_expression\_map()}\spxextra{tasks.models.Task method}, 
+		\hyperpage{19}
+  \item \spxentry{\_get\_model\_fields()}\spxextra{tasks.serializers.TaskSerializer method}, 
+		\hyperpage{22}
+  \item \spxentry{\_get\_next\_or\_previous\_by\_FIELD()}\spxextra{tasks.models.Task method}, 
+		\hyperpage{19}
+  \item \spxentry{\_get\_next\_or\_previous\_in\_order()}\spxextra{tasks.models.Task method}, 
+		\hyperpage{19}
+  \item \spxentry{\_get\_pk\_val()}\spxextra{tasks.models.Task method}, \hyperpage{19}
+  \item \spxentry{\_get\_unique\_checks()}\spxextra{tasks.models.Task method}, \hyperpage{19}
+  \item \spxentry{\_is\_default\_auto\_field\_overridden}\spxextra{authenticate.apps.AuthenticateConfig property}, 
+		\hyperpage{3}
+  \item \spxentry{\_is\_default\_auto\_field\_overridden}\spxextra{open\_ai.apps.OpenAiConfig property}, 
+		\hyperpage{11}
+  \item \spxentry{\_is\_default\_auto\_field\_overridden}\spxextra{tasks.apps.TasksConfig property}, 
+		\hyperpage{17}
+  \item \spxentry{\_meta}\spxextra{tasks.models.Task attribute}, \hyperpage{19}
+  \item \spxentry{\_parse\_params()}\spxextra{tasks.models.Task method}, \hyperpage{20}
+  \item \spxentry{\_path\_from\_module()}\spxextra{authenticate.apps.AuthenticateConfig method}, 
+		\hyperpage{3}
+  \item \spxentry{\_path\_from\_module()}\spxextra{open\_ai.apps.OpenAiConfig method}, 
+		\hyperpage{11}
+  \item \spxentry{\_path\_from\_module()}\spxextra{tasks.apps.TasksConfig method}, \hyperpage{17}
+  \item \spxentry{\_perform\_date\_checks()}\spxextra{tasks.models.Task method}, \hyperpage{20}
+  \item \spxentry{\_perform\_unique\_checks()}\spxextra{tasks.models.Task method}, \hyperpage{20}
+  \item \spxentry{\_prepare\_related\_fields\_for\_save()}\spxextra{tasks.models.Task method}, 
+		\hyperpage{20}
+  \item \spxentry{\_read\_only\_defaults()}\spxextra{tasks.serializers.TaskSerializer method}, 
+		\hyperpage{22}
+  \item \spxentry{\_readable\_fields}\spxextra{tasks.serializers.TaskSerializer property}, 
+		\hyperpage{22}
+  \item \spxentry{\_save\_parents()}\spxextra{tasks.models.Task method}, \hyperpage{20}
+  \item \spxentry{\_save\_table()}\spxextra{tasks.models.Task method}, \hyperpage{20}
+  \item \spxentry{\_set\_pk\_val()}\spxextra{tasks.models.Task method}, \hyperpage{20}
+  \item \spxentry{\_sync}\spxextra{task\_management.consumers.TaskConsumer attribute}, 
+		\hyperpage{7}
+  \item \spxentry{\_validate\_force\_insert()}\spxextra{tasks.models.Task class method}, 
+		\hyperpage{20}
+  \item \spxentry{\_writable\_fields}\spxextra{tasks.serializers.TaskSerializer property}, 
+		\hyperpage{23}
+
+  \indexspace
+  \bigletter A
+  \item \spxentry{accept()}\spxextra{task\_management.consumers.TaskConsumer method}, \hyperpage{7}
+  \item \spxentry{add\_note()}\spxextra{tasks.models.Task.DoesNotExist method}, \hyperpage{18}
+  \item \spxentry{add\_note()}\spxextra{tasks.models.Task.MultipleObjectsReturned method}, 
+		\hyperpage{18}
+  \item \spxentry{adelete()}\spxextra{tasks.models.Task method}, \hyperpage{20}
+  \item \spxentry{apply()}\spxextra{tasks.migrations.0001\_initial.Migration method}, 
+		\hyperpage{15}
+  \item \spxentry{apply()}\spxextra{tasks.migrations.0002\_alter\_task\_due\_date.Migration method}, 
+		\hyperpage{16}
+  \item \spxentry{arefresh\_from\_db()}\spxextra{tasks.models.Task method}, \hyperpage{20}
+  \item \spxentry{args}\spxextra{tasks.models.Task.DoesNotExist attribute}, \hyperpage{18}
+  \item \spxentry{args}\spxextra{tasks.models.Task.MultipleObjectsReturned attribute}, 
+		\hyperpage{18}
+  \item \spxentry{as\_asgi()}\spxextra{task\_management.consumers.TaskConsumer class method}, 
+		\hyperpage{7}
+  \item \spxentry{asave()}\spxextra{tasks.models.Task method}, \hyperpage{20}
+  \item \spxentry{assigned\_to}\spxextra{tasks.models.Task attribute}, \hyperpage{20}
+  \item \spxentry{assigned\_to\_id}\spxextra{tasks.models.Task attribute}, \hyperpage{20}
+  \item \spxentry{atomic}\spxextra{tasks.migrations.0001\_initial.Migration attribute}, 
+		\hyperpage{15}
+  \item \spxentry{atomic}\spxextra{tasks.migrations.0002\_alter\_task\_due\_date.Migration attribute}, 
+		\hyperpage{16}
+  \item \spxentry{authenticate}
+    \subitem \spxentry{module}, \hyperpage{5}
+  \item \spxentry{authenticate.admin}
+    \subitem \spxentry{module}, \hyperpage{3}
+  \item \spxentry{authenticate.apps}
+    \subitem \spxentry{module}, \hyperpage{3}
+  \item \spxentry{authenticate.migrations}
+    \subitem \spxentry{module}, \hyperpage{3}
+  \item \spxentry{authenticate.models}
+    \subitem \spxentry{module}, \hyperpage{4}
+  \item \spxentry{authenticate.views}
+    \subitem \spxentry{module}, \hyperpage{4}
+  \item \spxentry{AuthenticateConfig}\spxextra{class in authenticate.apps}, \hyperpage{3}
+
+  \indexspace
+  \bigletter B
+  \item \spxentry{bind()}\spxextra{tasks.serializers.TaskSerializer method}, \hyperpage{23}
+  \item \spxentry{build\_field()}\spxextra{tasks.serializers.TaskSerializer method}, \hyperpage{23}
+  \item \spxentry{build\_nested\_field()}\spxextra{tasks.serializers.TaskSerializer method}, 
+		\hyperpage{23}
+  \item \spxentry{build\_property\_field()}\spxextra{tasks.serializers.TaskSerializer method}, 
+		\hyperpage{23}
+  \item \spxentry{build\_relational\_field()}\spxextra{tasks.serializers.TaskSerializer method}, 
+		\hyperpage{23}
+  \item \spxentry{build\_standard\_field()}\spxextra{tasks.serializers.TaskSerializer method}, 
+		\hyperpage{23}
+  \item \spxentry{build\_unknown\_field()}\spxextra{tasks.serializers.TaskSerializer method}, 
+		\hyperpage{23}
+  \item \spxentry{build\_url\_field()}\spxextra{tasks.serializers.TaskSerializer method}, 
+		\hyperpage{23}
+
+  \indexspace
+  \bigletter C
+  \item \spxentry{channel\_layer\_alias}\spxextra{task\_management.consumers.TaskConsumer attribute}, 
+		\hyperpage{7}
+  \item \spxentry{chatphi()}\spxextra{in module open\_ai.views}, \hyperpage{13}
+  \item \spxentry{check()}\spxextra{tasks.models.Task class method}, \hyperpage{20}
+  \item \spxentry{clean()}\spxextra{tasks.models.Task method}, \hyperpage{20}
+  \item \spxentry{clean\_fields()}\spxextra{tasks.models.Task method}, \hyperpage{20}
+  \item \spxentry{close()}\spxextra{task\_management.consumers.TaskConsumer method}, \hyperpage{7}
+  \item \spxentry{connect()}\spxextra{task\_management.consumers.TaskConsumer method}, 
+		\hyperpage{7}
+  \item \spxentry{context}\spxextra{tasks.serializers.TaskSerializer property}, \hyperpage{23}
+  \item \spxentry{create()}\spxextra{authenticate.apps.AuthenticateConfig class method}, 
+		\hyperpage{3}
+  \item \spxentry{create()}\spxextra{open\_ai.apps.OpenAiConfig class method}, \hyperpage{11}
+  \item \spxentry{create()}\spxextra{tasks.apps.TasksConfig class method}, \hyperpage{17}
+  \item \spxentry{create()}\spxextra{tasks.serializers.TaskSerializer method}, \hyperpage{23}
+  \item \spxentry{create\_task()}\spxextra{in module tasks.views}, \hyperpage{28}
+  \item \spxentry{created\_at}\spxextra{tasks.models.Task attribute}, \hyperpage{20}
+
+  \indexspace
+  \bigletter D
+  \item \spxentry{data}\spxextra{tasks.serializers.TaskSerializer property}, \hyperpage{23}
+  \item \spxentry{date\_error\_message()}\spxextra{tasks.models.Task method}, \hyperpage{20}
+  \item \spxentry{default\_auto\_field}\spxextra{authenticate.apps.AuthenticateConfig attribute}, 
+		\hyperpage{3}
+  \item \spxentry{default\_auto\_field}\spxextra{open\_ai.apps.OpenAiConfig attribute}, 
+		\hyperpage{11}
+  \item \spxentry{default\_auto\_field}\spxextra{tasks.apps.TasksConfig attribute}, \hyperpage{17}
+  \item \spxentry{default\_empty\_html}\spxextra{tasks.serializers.TaskSerializer attribute}, 
+		\hyperpage{23}
+  \item \spxentry{default\_error\_messages}\spxextra{tasks.serializers.TaskSerializer attribute}, 
+		\hyperpage{23}
+  \item \spxentry{default\_validators}\spxextra{tasks.serializers.TaskSerializer attribute}, 
+		\hyperpage{23}
+  \item \spxentry{delete()}\spxextra{tasks.models.Task method}, \hyperpage{20}
+  \item \spxentry{delete\_task()}\spxextra{in module tasks.views}, \hyperpage{28}
+  \item \spxentry{dependencies}\spxextra{tasks.migrations.0001\_initial.Migration attribute}, 
+		\hyperpage{15}
+  \item \spxentry{dependencies}\spxextra{tasks.migrations.0002\_alter\_task\_due\_date.Migration attribute}, 
+		\hyperpage{16}
+  \item \spxentry{description}\spxextra{tasks.models.Task attribute}, \hyperpage{20}
+  \item \spxentry{disconnect()}\spxextra{task\_management.consumers.TaskConsumer method}, 
+		\hyperpage{8}
+  \item \spxentry{dispatch()}\spxextra{task\_management.consumers.TaskConsumer method}, 
+		\hyperpage{8}
+  \item \spxentry{due\_date}\spxextra{tasks.models.Task attribute}, \hyperpage{21}
+
+  \indexspace
+  \bigletter E
+  \item \spxentry{errors}\spxextra{tasks.serializers.TaskSerializer property}, \hyperpage{23}
+
+  \indexspace
+  \bigletter F
+  \item \spxentry{fail()}\spxextra{tasks.serializers.TaskSerializer method}, \hyperpage{23}
+  \item \spxentry{fields}\spxextra{tasks.serializers.TaskSerializer attribute}, \hyperpage{24}
+  \item \spxentry{fields}\spxextra{tasks.serializers.TaskSerializer.Meta attribute}, \hyperpage{22}
+  \item \spxentry{from\_db()}\spxextra{tasks.models.Task class method}, \hyperpage{21}
+  \item \spxentry{full\_clean()}\spxextra{tasks.models.Task method}, \hyperpage{21}
+
+  \indexspace
+  \bigletter G
+  \item \spxentry{get\_attribute()}\spxextra{tasks.serializers.TaskSerializer method}, 
+		\hyperpage{24}
+  \item \spxentry{get\_constraints()}\spxextra{tasks.models.Task method}, \hyperpage{21}
+  \item \spxentry{get\_default()}\spxextra{tasks.serializers.TaskSerializer method}, \hyperpage{24}
+  \item \spxentry{get\_default\_field\_names()}\spxextra{tasks.serializers.TaskSerializer method}, 
+		\hyperpage{24}
+  \item \spxentry{get\_deferred\_fields()}\spxextra{tasks.models.Task method}, \hyperpage{21}
+  \item \spxentry{get\_extra\_kwargs()}\spxextra{tasks.serializers.TaskSerializer method}, 
+		\hyperpage{24}
+  \item \spxentry{get\_field\_names()}\spxextra{tasks.serializers.TaskSerializer method}, 
+		\hyperpage{24}
+  \item \spxentry{get\_fields()}\spxextra{tasks.serializers.TaskSerializer method}, \hyperpage{24}
+  \item \spxentry{get\_initial()}\spxextra{tasks.serializers.TaskSerializer method}, \hyperpage{24}
+  \item \spxentry{get\_model()}\spxextra{authenticate.apps.AuthenticateConfig method}, 
+		\hyperpage{3}
+  \item \spxentry{get\_model()}\spxextra{open\_ai.apps.OpenAiConfig method}, \hyperpage{11}
+  \item \spxentry{get\_model()}\spxextra{tasks.apps.TasksConfig method}, \hyperpage{17}
+  \item \spxentry{get\_models()}\spxextra{authenticate.apps.AuthenticateConfig method}, 
+		\hyperpage{3}
+  \item \spxentry{get\_models()}\spxextra{open\_ai.apps.OpenAiConfig method}, \hyperpage{12}
+  \item \spxentry{get\_models()}\spxextra{tasks.apps.TasksConfig method}, \hyperpage{17}
+  \item \spxentry{get\_next\_by\_created\_at()}\spxextra{tasks.models.Task method}, \hyperpage{21}
+  \item \spxentry{get\_phi3\_response()}\spxextra{in module open\_ai.ollama\_phi}, \hyperpage{12}
+  \item \spxentry{get\_previous\_by\_created\_at()}\spxextra{tasks.models.Task method}, 
+		\hyperpage{21}
+  \item \spxentry{get\_status\_display()}\spxextra{tasks.models.Task method}, \hyperpage{21}
+  \item \spxentry{get\_unique\_for\_date\_validators()}\spxextra{tasks.serializers.TaskSerializer method}, 
+		\hyperpage{24}
+  \item \spxentry{get\_unique\_together\_constraints()}\spxextra{tasks.serializers.TaskSerializer method}, 
+		\hyperpage{24}
+  \item \spxentry{get\_unique\_together\_validators()}\spxextra{tasks.serializers.TaskSerializer method}, 
+		\hyperpage{24}
+  \item \spxentry{get\_uniqueness\_extra\_kwargs()}\spxextra{tasks.serializers.TaskSerializer method}, 
+		\hyperpage{24}
+  \item \spxentry{get\_validators()}\spxextra{tasks.serializers.TaskSerializer method}, 
+		\hyperpage{24}
+  \item \spxentry{get\_value()}\spxextra{tasks.serializers.TaskSerializer method}, \hyperpage{24}
+  \item \spxentry{groups}\spxextra{task\_management.consumers.TaskConsumer attribute}, 
+		\hyperpage{8}
+
+  \indexspace
+  \bigletter I
+  \item \spxentry{id}\spxextra{tasks.models.Task attribute}, \hyperpage{21}
+  \item \spxentry{import\_models()}\spxextra{authenticate.apps.AuthenticateConfig method}, 
+		\hyperpage{4}
+  \item \spxentry{import\_models()}\spxextra{open\_ai.apps.OpenAiConfig method}, \hyperpage{12}
+  \item \spxentry{import\_models()}\spxextra{tasks.apps.TasksConfig method}, \hyperpage{17}
+  \item \spxentry{include\_extra\_kwargs()}\spxextra{tasks.serializers.TaskSerializer method}, 
+		\hyperpage{24}
+  \item \spxentry{index()}\spxextra{in module tasks.views}, \hyperpage{28}
+  \item \spxentry{initial}\spxextra{tasks.migrations.0001\_initial.Migration attribute}, 
+		\hyperpage{15}
+  \item \spxentry{initial}\spxextra{tasks.migrations.0002\_alter\_task\_due\_date.Migration attribute}, 
+		\hyperpage{16}
+  \item \spxentry{initial}\spxextra{tasks.serializers.TaskSerializer attribute}, \hyperpage{25}
+  \item \spxentry{is\_valid()}\spxextra{tasks.serializers.TaskSerializer method}, \hyperpage{25}
+
+  \indexspace
+  \bigletter L
+  \item \spxentry{login()}\spxextra{in module authenticate.views}, \hyperpage{4}
+  \item \spxentry{logout()}\spxextra{in module authenticate.views}, \hyperpage{4}
+
+  \indexspace
+  \bigletter M
+  \item \spxentry{many\_init()}\spxextra{tasks.serializers.TaskSerializer class method}, 
+		\hyperpage{25}
+  \item \spxentry{Migration}\spxextra{class in tasks.migrations.0001\_initial}, \hyperpage{15}
+  \item \spxentry{Migration}\spxextra{class in tasks.migrations.0002\_alter\_task\_due\_date}, 
+		\hyperpage{16}
+  \item \spxentry{model}\spxextra{tasks.serializers.TaskSerializer.Meta attribute}, \hyperpage{22}
+  \item \spxentry{module}
+    \subitem \spxentry{authenticate}, \hyperpage{5}
+    \subitem \spxentry{authenticate.admin}, \hyperpage{3}
+    \subitem \spxentry{authenticate.apps}, \hyperpage{3}
+    \subitem \spxentry{authenticate.migrations}, \hyperpage{3}
+    \subitem \spxentry{authenticate.models}, \hyperpage{4}
+    \subitem \spxentry{authenticate.views}, \hyperpage{4}
+    \subitem \spxentry{open\_ai}, \hyperpage{13}
+    \subitem \spxentry{open\_ai.admin}, \hyperpage{11}
+    \subitem \spxentry{open\_ai.apps}, \hyperpage{11}
+    \subitem \spxentry{open\_ai.migrations}, \hyperpage{11}
+    \subitem \spxentry{open\_ai.ollama\_phi}, \hyperpage{12}
+    \subitem \spxentry{open\_ai.urls}, \hyperpage{12}
+    \subitem \spxentry{open\_ai.views}, \hyperpage{13}
+    \subitem \spxentry{task\_management}, \hyperpage{9}
+    \subitem \spxentry{task\_management.asgi}, \hyperpage{7}
+    \subitem \spxentry{task\_management.consumers}, \hyperpage{7}
+    \subitem \spxentry{task\_management.routing}, \hyperpage{8}
+    \subitem \spxentry{task\_management.settings}, \hyperpage{8}
+    \subitem \spxentry{task\_management.urls}, \hyperpage{9}
+    \subitem \spxentry{task\_management.wsgi}, \hyperpage{9}
+    \subitem \spxentry{tasks}, \hyperpage{29}
+    \subitem \spxentry{tasks.admin}, \hyperpage{17}
+    \subitem \spxentry{tasks.apps}, \hyperpage{17}
+    \subitem \spxentry{tasks.migrations}, \hyperpage{17}
+    \subitem \spxentry{tasks.migrations.0001\_initial}, \hyperpage{15}
+    \subitem \spxentry{tasks.migrations.0002\_alter\_task\_due\_date}, \hyperpage{16}
+    \subitem \spxentry{tasks.models}, \hyperpage{18}
+    \subitem \spxentry{tasks.serializers}, \hyperpage{22}
+    \subitem \spxentry{tasks.urls}, \hyperpage{27}
+    \subitem \spxentry{tasks.views}, \hyperpage{28}
+  \item \spxentry{mutate\_state()}\spxextra{tasks.migrations.0001\_initial.Migration method}, 
+		\hyperpage{15}
+  \item \spxentry{mutate\_state()}\spxextra{tasks.migrations.0002\_alter\_task\_due\_date.Migration method}, 
+		\hyperpage{16}
+
+  \indexspace
+  \bigletter N
+  \item \spxentry{name}\spxextra{authenticate.apps.AuthenticateConfig attribute}, \hyperpage{4}
+  \item \spxentry{name}\spxextra{open\_ai.apps.OpenAiConfig attribute}, \hyperpage{12}
+  \item \spxentry{name}\spxextra{tasks.apps.TasksConfig attribute}, \hyperpage{17}
+
+  \indexspace
+  \bigletter O
+  \item \spxentry{objects}\spxextra{tasks.models.Task attribute}, \hyperpage{21}
+  \item \spxentry{open\_ai}
+    \subitem \spxentry{module}, \hyperpage{13}
+  \item \spxentry{open\_ai.admin}
+    \subitem \spxentry{module}, \hyperpage{11}
+  \item \spxentry{open\_ai.apps}
+    \subitem \spxentry{module}, \hyperpage{11}
+  \item \spxentry{open\_ai.migrations}
+    \subitem \spxentry{module}, \hyperpage{11}
+  \item \spxentry{open\_ai.ollama\_phi}
+    \subitem \spxentry{module}, \hyperpage{12}
+  \item \spxentry{open\_ai.urls}
+    \subitem \spxentry{module}, \hyperpage{12}
+  \item \spxentry{open\_ai.views}
+    \subitem \spxentry{module}, \hyperpage{13}
+  \item \spxentry{OpenAiConfig}\spxextra{class in open\_ai.apps}, \hyperpage{11}
+  \item \spxentry{operations}\spxextra{tasks.migrations.0001\_initial.Migration attribute}, 
+		\hyperpage{15}
+  \item \spxentry{operations}\spxextra{tasks.migrations.0002\_alter\_task\_due\_date.Migration attribute}, 
+		\hyperpage{16}
+
+  \indexspace
+  \bigletter P
+  \item \spxentry{pk}\spxextra{tasks.models.Task property}, \hyperpage{21}
+  \item \spxentry{prepare\_database\_save()}\spxextra{tasks.models.Task method}, \hyperpage{21}
+
+  \indexspace
+  \bigletter R
+  \item \spxentry{ready()}\spxextra{authenticate.apps.AuthenticateConfig method}, \hyperpage{4}
+  \item \spxentry{ready()}\spxextra{open\_ai.apps.OpenAiConfig method}, \hyperpage{12}
+  \item \spxentry{ready()}\spxextra{tasks.apps.TasksConfig method}, \hyperpage{17}
+  \item \spxentry{receive()}\spxextra{task\_management.consumers.TaskConsumer method}, 
+		\hyperpage{8}
+  \item \spxentry{refresh\_from\_db()}\spxextra{tasks.models.Task method}, \hyperpage{21}
+  \item \spxentry{replaces}\spxextra{tasks.migrations.0001\_initial.Migration attribute}, 
+		\hyperpage{15}
+  \item \spxentry{replaces}\spxextra{tasks.migrations.0002\_alter\_task\_due\_date.Migration attribute}, 
+		\hyperpage{16}
+  \item \spxentry{root}\spxextra{tasks.serializers.TaskSerializer property}, \hyperpage{25}
+  \item \spxentry{run\_before}\spxextra{tasks.migrations.0001\_initial.Migration attribute}, 
+		\hyperpage{16}
+  \item \spxentry{run\_before}\spxextra{tasks.migrations.0002\_alter\_task\_due\_date.Migration attribute}, 
+		\hyperpage{16}
+  \item \spxentry{run\_validation()}\spxextra{tasks.serializers.TaskSerializer method}, 
+		\hyperpage{25}
+  \item \spxentry{run\_validators()}\spxextra{tasks.serializers.TaskSerializer method}, 
+		\hyperpage{25}
+
+  \indexspace
+  \bigletter S
+  \item \spxentry{save()}\spxextra{tasks.models.Task method}, \hyperpage{21}
+  \item \spxentry{save()}\spxextra{tasks.serializers.TaskSerializer method}, \hyperpage{25}
+  \item \spxentry{save\_base()}\spxextra{tasks.models.Task method}, \hyperpage{21}
+  \item \spxentry{send()}\spxextra{task\_management.consumers.TaskConsumer method}, \hyperpage{8}
+  \item \spxentry{serializable\_value()}\spxextra{tasks.models.Task method}, \hyperpage{21}
+  \item \spxentry{serializer\_choice\_field}\spxextra{tasks.serializers.TaskSerializer attribute}, 
+		\hyperpage{25}
+  \item \spxentry{serializer\_field\_mapping}\spxextra{tasks.serializers.TaskSerializer attribute}, 
+		\hyperpage{25}
+  \item \spxentry{serializer\_related\_field}\spxextra{tasks.serializers.TaskSerializer attribute}, 
+		\hyperpage{26}
+  \item \spxentry{serializer\_related\_to\_field}\spxextra{tasks.serializers.TaskSerializer attribute}, 
+		\hyperpage{27}
+  \item \spxentry{serializer\_url\_field}\spxextra{tasks.serializers.TaskSerializer attribute}, 
+		\hyperpage{27}
+  \item \spxentry{set\_value()}\spxextra{tasks.serializers.TaskSerializer method}, \hyperpage{27}
+  \item \spxentry{silent\_variable\_failure}\spxextra{tasks.models.Task.DoesNotExist attribute}, 
+		\hyperpage{18}
+  \item \spxentry{status}\spxextra{tasks.models.Task attribute}, \hyperpage{22}
+  \item \spxentry{suggest\_name()}\spxextra{tasks.migrations.0001\_initial.Migration method}, 
+		\hyperpage{16}
+  \item \spxentry{suggest\_name()}\spxextra{tasks.migrations.0002\_alter\_task\_due\_date.Migration method}, 
+		\hyperpage{16}
+
+  \indexspace
+  \bigletter T
+  \item \spxentry{Task}\spxextra{class in tasks.models}, \hyperpage{18}
+  \item \spxentry{Task.DoesNotExist}, \hyperpage{18}
+  \item \spxentry{Task.MultipleObjectsReturned}, \hyperpage{18}
+  \item \spxentry{task\_management}
+    \subitem \spxentry{module}, \hyperpage{9}
+  \item \spxentry{task\_management.asgi}
+    \subitem \spxentry{module}, \hyperpage{7}
+  \item \spxentry{task\_management.consumers}
+    \subitem \spxentry{module}, \hyperpage{7}
+  \item \spxentry{task\_management.routing}
+    \subitem \spxentry{module}, \hyperpage{8}
+  \item \spxentry{task\_management.settings}
+    \subitem \spxentry{module}, \hyperpage{8}
+  \item \spxentry{task\_management.urls}
+    \subitem \spxentry{module}, \hyperpage{9}
+  \item \spxentry{task\_management.wsgi}
+    \subitem \spxentry{module}, \hyperpage{9}
+  \item \spxentry{task\_message()}\spxextra{task\_management.consumers.TaskConsumer method}, 
+		\hyperpage{8}
+  \item \spxentry{TaskConsumer}\spxextra{class in task\_management.consumers}, \hyperpage{7}
+  \item \spxentry{tasks}
+    \subitem \spxentry{module}, \hyperpage{29}
+  \item \spxentry{tasks.admin}
+    \subitem \spxentry{module}, \hyperpage{17}
+  \item \spxentry{tasks.apps}
+    \subitem \spxentry{module}, \hyperpage{17}
+  \item \spxentry{tasks.migrations}
+    \subitem \spxentry{module}, \hyperpage{17}
+  \item \spxentry{tasks.migrations.0001\_initial}
+    \subitem \spxentry{module}, \hyperpage{15}
+  \item \spxentry{tasks.migrations.0002\_alter\_task\_due\_date}
+    \subitem \spxentry{module}, \hyperpage{16}
+  \item \spxentry{tasks.models}
+    \subitem \spxentry{module}, \hyperpage{18}
+  \item \spxentry{tasks.serializers}
+    \subitem \spxentry{module}, \hyperpage{22}
+  \item \spxentry{tasks.urls}
+    \subitem \spxentry{module}, \hyperpage{27}
+  \item \spxentry{tasks.views}
+    \subitem \spxentry{module}, \hyperpage{28}
+  \item \spxentry{TasksConfig}\spxextra{class in tasks.apps}, \hyperpage{17}
+  \item \spxentry{TaskSerializer}\spxextra{class in tasks.serializers}, \hyperpage{22}
+  \item \spxentry{TaskSerializer.Meta}\spxextra{class in tasks.serializers}, \hyperpage{22}
+  \item \spxentry{title}\spxextra{tasks.models.Task attribute}, \hyperpage{22}
+  \item \spxentry{to\_internal\_value()}\spxextra{tasks.serializers.TaskSerializer method}, 
+		\hyperpage{27}
+  \item \spxentry{to\_representation()}\spxextra{tasks.serializers.TaskSerializer method}, 
+		\hyperpage{27}
+
+  \indexspace
+  \bigletter U
+  \item \spxentry{unapply()}\spxextra{tasks.migrations.0001\_initial.Migration method}, 
+		\hyperpage{16}
+  \item \spxentry{unapply()}\spxextra{tasks.migrations.0002\_alter\_task\_due\_date.Migration method}, 
+		\hyperpage{16}
+  \item \spxentry{unique\_error\_message()}\spxextra{tasks.models.Task method}, \hyperpage{22}
+  \item \spxentry{update()}\spxextra{tasks.serializers.TaskSerializer method}, \hyperpage{27}
+  \item \spxentry{update\_task()}\spxextra{in module tasks.views}, \hyperpage{28}
+  \item \spxentry{url\_field\_name}\spxextra{tasks.serializers.TaskSerializer attribute}, 
+		\hyperpage{27}
+  \item \spxentry{urlpatterns}\spxextra{in module open\_ai.urls}, \hyperpage{12}
+  \item \spxentry{urlpatterns}\spxextra{in module tasks.urls}, \hyperpage{27}
+
+  \indexspace
+  \bigletter V
+  \item \spxentry{validate()}\spxextra{tasks.serializers.TaskSerializer method}, \hyperpage{27}
+  \item \spxentry{validate\_constraints()}\spxextra{tasks.models.Task method}, \hyperpage{22}
+  \item \spxentry{validate\_empty\_values()}\spxextra{tasks.serializers.TaskSerializer method}, 
+		\hyperpage{27}
+  \item \spxentry{validate\_unique()}\spxextra{tasks.models.Task method}, \hyperpage{22}
+  \item \spxentry{validated\_data}\spxextra{tasks.serializers.TaskSerializer property}, 
+		\hyperpage{27}
+  \item \spxentry{validators}\spxextra{tasks.serializers.TaskSerializer property}, \hyperpage{27}
+
+  \indexspace
+  \bigletter W
+  \item \spxentry{websocket\_connect()}\spxextra{task\_management.consumers.TaskConsumer method}, 
+		\hyperpage{8}
+  \item \spxentry{websocket\_disconnect()}\spxextra{task\_management.consumers.TaskConsumer method}, 
+		\hyperpage{8}
+  \item \spxentry{websocket\_receive()}\spxextra{task\_management.consumers.TaskConsumer method}, 
+		\hyperpage{8}
+  \item \spxentry{with\_traceback()}\spxextra{tasks.models.Task.DoesNotExist method}, 
+		\hyperpage{18}
+  \item \spxentry{with\_traceback()}\spxextra{tasks.models.Task.MultipleObjectsReturned method}, 
+		\hyperpage{18}
+
+\end{sphinxtheindex}
